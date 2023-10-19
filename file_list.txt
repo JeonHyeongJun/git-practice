@@ -1,0 +1,9 @@
+total 0
+drwxr-xr-x 1 jeond 197609 0 Sep 28 15:57 OPEN source file/
+drwxr-xr-x 1 jeond 197609 0 Sep 28 15:47 etc file/
+-rw-r--r-- 1 jeond 197609 0 Oct  5 23:33 file_list.txt
+total 1.0K
+drwxr-xr-x 1 jeond 197609   0 Sep 28 15:57 OPEN source file/
+drwxr-xr-x 1 jeond 197609   0 Sep 28 15:47 etc file/
+-rw-r--r-- 1 jeond 197609 173 Oct  5 23:33 file_list.txt
+NEW TEXT FOR modified and commit!
